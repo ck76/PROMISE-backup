@@ -1,6 +1,48 @@
 # PROMISE-backup
 PRIMISE dataset for sofware defect prediction
 
+Weighted methods per class
+Depth of inheritance tree
+Number of children
+Coupling between object classes
+Response for a class
+Lack of cohesion in methods
+Afferent couplings
+Efferent couplings
+Number of public methods
+Lack of cohesion in methods, different from LCOM
+Lines of code
+Data access metric
+Measure of aggregation
+Measure of functional abstraction
+Cohesion among methods of class .
+Inheritance coupling
+Coupling between methods 
+Average method complexity
+Maximum McCabe 's cyclomatic complexity
+Average McCabe 's cyclomatic complexity
+
+每个类的加权方法
+继承树的深度
+儿童数量
+对象类之间的耦合
+对班级的回应
+方法缺乏凝聚力
+传入耦合
+传出联轴器
+公共方法的数量
+方法缺乏凝聚力，不同于LCOM
+代码行
+数据访问指标
+聚合度量
+功能抽象的度量
+类方法之间的内聚。
+继承耦合
+方法之间的耦合
+平均方法复杂度
+最大 McCabe 的圈复杂度
+平均 McCabe 的圈复杂度
+
 ## bug data
 * ant: 1.3, 1.4, 1.5, 1.6.0, 1.7.0
 * camel: 1.0, 1.2, 1.4, 1.6
